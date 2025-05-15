@@ -21,6 +21,7 @@
 | [0066-plus-one](https://github.com/Girish1845/Leetcode-Solved/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Girish1845/Leetcode-Solved/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0016-3sum-closest](https://github.com/Girish1845/Leetcode-Solved/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Girish1845/Leetcode-Solved/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | [0018-4sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Girish1845/Leetcode-Solved/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Girish1845/Leetcode-Solved/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
