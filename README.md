@@ -20,6 +20,7 @@
 | [0056-merge-intervals](https://github.com/Girish1845/Leetcode-Solved/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Girish1845/Leetcode-Solved/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Girish1845/Leetcode-Solved/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
