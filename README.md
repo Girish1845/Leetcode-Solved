@@ -22,10 +22,12 @@
 | [0075-sort-colors](https://github.com/Girish1845/Leetcode-Solved/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/0001-two-sum) |
+| [0229-majority-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [0056-merge-intervals](https://github.com/Girish1845/Leetcode-Solved/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Girish1845/Leetcode-Solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +63,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Girish1845/Leetcode-Solved/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
