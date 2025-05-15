@@ -4,13 +4,19 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Girish1845/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Girish1845/Leetcode-Solved/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Girish1845/Leetcode-Solved/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/0001-two-sum) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Girish1845/Leetcode-Solved/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
