@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Girish1845/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0621-task-scheduler](https://github.com/Girish1845/Leetcode-Solved/tree/master/0621-task-scheduler) |
@@ -110,10 +111,15 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Girish1845/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Girish1845/Leetcode-Solved/tree/master/0413-arithmetic-slices) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Girish1845/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Girish1845/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Girish1845/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
