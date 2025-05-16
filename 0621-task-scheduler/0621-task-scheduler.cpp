@@ -11,9 +11,9 @@ public:
             }
         }   
         for(int i=0;i<26;i++){
-            if(mp[i]==max_freq) count_maxfreq++; // number of tasks having maximum frequency
+            if(mp[i]==max_freq) count_maxfreq++; 
         }
-        int time= (max_freq-1)*(n+1)+count_maxfreq; // total time taken to complete all tasks
+        int time= (max_freq-1)*(n+1)+count_maxfreq; 
         return max(time,sz);
     }
 };
