@@ -27,6 +27,7 @@
 | [0229-majority-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/Girish1845/Leetcode-Solved/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Girish1845/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Girish1845/Leetcode-Solved/tree/master/0485-max-consecutive-ones) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Girish1845/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0368-largest-divisible-subset](https://github.com/Girish1845/Leetcode-Solved/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/0416-partition-equal-subset-sum) |
 ## Counting
 |  |
 | ------- |
