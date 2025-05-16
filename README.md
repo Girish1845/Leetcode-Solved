@@ -27,6 +27,7 @@
 | [0229-majority-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/Girish1845/Leetcode-Solved/tree/master/0368-largest-divisible-subset) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Girish1845/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Girish1845/Leetcode-Solved/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -34,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0229-majority-element-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Matrix
 |  |
 | ------- |
