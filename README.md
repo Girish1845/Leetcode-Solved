@@ -49,6 +49,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Girish1845/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0768-partition-labels](https://github.com/Girish1845/Leetcode-Solved/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Girish1845/Leetcode-Solved/tree/master/0782-jewels-and-stones) |
+| [0807-custom-sort-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0807-custom-sort-string) |
 ## Matrix
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0414-third-maximum-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Girish1845/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Girish1845/Leetcode-Solved/tree/master/0621-task-scheduler) |
+| [0807-custom-sort-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0807-custom-sort-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,4 +139,5 @@
 | [0567-permutation-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Girish1845/Leetcode-Solved/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Girish1845/Leetcode-Solved/tree/master/0782-jewels-and-stones) |
+| [0807-custom-sort-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0807-custom-sort-string) |
 <!---LeetCode Topics End-->
