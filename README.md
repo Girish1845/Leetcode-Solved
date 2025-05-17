@@ -47,6 +47,7 @@
 | [0567-permutation-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Girish1845/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Girish1845/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0782-jewels-and-stones](https://github.com/Girish1845/Leetcode-Solved/tree/master/0782-jewels-and-stones) |
 ## Matrix
 |  |
 | ------- |
@@ -131,4 +132,5 @@
 | [0038-count-and-say](https://github.com/Girish1845/Leetcode-Solved/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0179-largest-number) |
 | [0567-permutation-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0567-permutation-in-string) |
+| [0782-jewels-and-stones](https://github.com/Girish1845/Leetcode-Solved/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
