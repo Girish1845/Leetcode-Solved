@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/Girish1845/Leetcode-Solved/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/Girish1845/Leetcode-Solved/tree/master/0368-largest-divisible-subset) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Girish1845/Leetcode-Solved/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Girish1845/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0768-partition-labels](https://github.com/Girish1845/Leetcode-Solved/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Girish1845/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2032-largest-odd-number-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [0782-jewels-and-stones](https://github.com/Girish1845/Leetcode-Solved/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0807-custom-sort-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Girish1845/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2032-largest-odd-number-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
