@@ -39,6 +39,7 @@
 | [0621-task-scheduler](https://github.com/Girish1845/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Girish1845/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0724-find-pivot-index](https://github.com/Girish1845/Leetcode-Solved/tree/master/0724-find-pivot-index) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Girish1845/Leetcode-Solved/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0952-word-subsets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0952-word-subsets) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@
 | [0414-third-maximum-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Girish1845/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Girish1845/Leetcode-Solved/tree/master/0621-task-scheduler) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Girish1845/Leetcode-Solved/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0807-custom-sort-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0807-custom-sort-string) |
 ## Binary Search
 |  |
