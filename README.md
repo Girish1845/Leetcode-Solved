@@ -150,6 +150,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Girish1845/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Girish1845/Leetcode-Solved/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/Girish1845/Leetcode-Solved/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0179-largest-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0567-permutation-in-string) |
