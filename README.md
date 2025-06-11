@@ -154,6 +154,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Girish1845/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Girish1845/Leetcode-Solved/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Girish1845/Leetcode-Solved/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Girish1845/Leetcode-Solved/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0179-largest-number) |
@@ -169,6 +170,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Girish1845/Leetcode-Solved/tree/master/0020-valid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Girish1845/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Prefix Sum
 |  |
