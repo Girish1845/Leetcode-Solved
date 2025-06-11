@@ -42,6 +42,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Girish1845/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Girish1845/Leetcode-Solved/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/Girish1845/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Girish1845/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -55,6 +56,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Girish1845/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Girish1845/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Girish1845/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -171,6 +173,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Girish1845/Leetcode-Solved/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Girish1845/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Prefix Sum
 |  |
@@ -184,4 +187,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/1013-fibonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
