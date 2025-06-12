@@ -44,6 +44,7 @@
 | [0455-assign-cookies](https://github.com/Girish1845/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Girish1845/Leetcode-Solved/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/Girish1845/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Girish1845/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -177,6 +178,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Girish1845/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Girish1845/Leetcode-Solved/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Girish1845/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Prefix Sum
 |  |
@@ -195,6 +197,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Girish1845/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
