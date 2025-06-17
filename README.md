@@ -164,6 +164,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Girish1845/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Girish1845/Leetcode-Solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Girish1845/Leetcode-Solved/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Girish1845/Leetcode-Solved/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Girish1845/Leetcode-Solved/tree/master/0058-length-of-last-word) |
@@ -213,4 +214,8 @@
 |  |
 | ------- |
 | [2857-total-distance-traveled](https://github.com/Girish1845/Leetcode-Solved/tree/master/2857-total-distance-traveled) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Girish1845/Leetcode-Solved/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
