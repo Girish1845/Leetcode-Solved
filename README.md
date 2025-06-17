@@ -13,6 +13,7 @@
 | [1013-fibonacci-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Girish1845/Leetcode-Solved/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/2032-largest-odd-number-in-string) |
+| [2857-total-distance-traveled](https://github.com/Girish1845/Leetcode-Solved/tree/master/2857-total-distance-traveled) |
 ## Array
 |  |
 | ------- |
@@ -206,4 +207,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Girish1845/Leetcode-Solved/tree/master/0155-min-stack) |
+## Simulation
+|  |
+| ------- |
+| [2857-total-distance-traveled](https://github.com/Girish1845/Leetcode-Solved/tree/master/2857-total-distance-traveled) |
 <!---LeetCode Topics End-->
