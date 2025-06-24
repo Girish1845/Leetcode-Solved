@@ -53,6 +53,7 @@
 | [0724-find-pivot-index](https://github.com/Girish1845/Leetcode-Solved/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Girish1845/Leetcode-Solved/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0952-word-subsets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0952-word-subsets) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2845-find-the-value-of-the-partition](https://github.com/Girish1845/Leetcode-Solved/tree/master/2845-find-the-value-of-the-partition) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Girish1845/Leetcode-Solved/tree/master/0768-partition-labels) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Sorting
 |  |
 | ------- |
