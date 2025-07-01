@@ -30,6 +30,7 @@
 | [0056-merge-intervals](https://github.com/Girish1845/Leetcode-Solved/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Girish1845/Leetcode-Solved/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Girish1845/Leetcode-Solved/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Girish1845/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
@@ -147,6 +148,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -263,4 +265,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/Girish1845/Leetcode-Solved/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Girish1845/Leetcode-Solved/tree/master/0104-maximum-depth-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
