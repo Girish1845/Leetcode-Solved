@@ -14,6 +14,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Girish1845/Leetcode-Solved/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/2032-largest-odd-number-in-string) |
 | [2857-total-distance-traveled](https://github.com/Girish1845/Leetcode-Solved/tree/master/2857-total-distance-traveled) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
@@ -230,6 +233,7 @@
 |  |
 | ------- |
 | [2857-total-distance-traveled](https://github.com/Girish1845/Leetcode-Solved/tree/master/2857-total-distance-traveled) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
 |  |
 | ------- |
