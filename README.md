@@ -67,6 +67,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Girish1845/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Girish1845/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Girish1845/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0567-permutation-in-string) |
@@ -110,6 +111,7 @@
 | [0169-majority-element](https://github.com/Girish1845/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Girish1845/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/Girish1845/Leetcode-Solved/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Girish1845/Leetcode-Solved/tree/master/0455-assign-cookies) |
@@ -187,6 +189,7 @@
 | [0038-count-and-say](https://github.com/Girish1845/Leetcode-Solved/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Girish1845/Leetcode-Solved/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Girish1845/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/Girish1845/Leetcode-Solved/tree/master/0742-to-lower-case) |
