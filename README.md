@@ -36,6 +36,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Girish1845/Leetcode-Solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Girish1845/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Girish1845/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0189-rotate-array) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
