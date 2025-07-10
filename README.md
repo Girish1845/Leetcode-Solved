@@ -261,6 +261,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Girish1845/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Girish1845/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Girish1845/Leetcode-Solved/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Girish1845/Leetcode-Solved/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Girish1845/Leetcode-Solved/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -281,6 +282,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Girish1845/Leetcode-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Girish1845/Leetcode-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Girish1845/Leetcode-Solved/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Girish1845/Leetcode-Solved/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Girish1845/Leetcode-Solved/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -297,4 +299,5 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Girish1845/Leetcode-Solved/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Girish1845/Leetcode-Solved/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
