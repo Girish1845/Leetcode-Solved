@@ -60,6 +60,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2737-row-with-maximum-ones](https://github.com/Girish1845/Leetcode-Solved/tree/master/2737-row-with-maximum-ones) |
 | [2845-find-the-value-of-the-partition](https://github.com/Girish1845/Leetcode-Solved/tree/master/2845-find-the-value-of-the-partition) |
 | [3226-minimum-number-game](https://github.com/Girish1845/Leetcode-Solved/tree/master/3226-minimum-number-game) |
 ## Hash Table
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Girish1845/Leetcode-Solved/tree/master/0048-rotate-image) |
+| [2737-row-with-maximum-ones](https://github.com/Girish1845/Leetcode-Solved/tree/master/2737-row-with-maximum-ones) |
 ## Two Pointers
 |  |
 | ------- |
