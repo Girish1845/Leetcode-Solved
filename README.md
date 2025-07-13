@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Girish1845/Leetcode-Solved/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Girish1845/Leetcode-Solved/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Girish1845/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Girish1845/Leetcode-Solved/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0189-rotate-array) |
@@ -197,6 +198,7 @@
 | [0014-longest-common-prefix](https://github.com/Girish1845/Leetcode-Solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Girish1845/Leetcode-Solved/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Girish1845/Leetcode-Solved/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Girish1845/Leetcode-Solved/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Girish1845/Leetcode-Solved/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Girish1845/Leetcode-Solved/tree/master/0242-valid-anagram) |
@@ -249,6 +251,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Girish1845/Leetcode-Solved/tree/master/0043-multiply-strings) |
 | [2857-total-distance-traveled](https://github.com/Girish1845/Leetcode-Solved/tree/master/2857-total-distance-traveled) |
 | [3226-minimum-number-game](https://github.com/Girish1845/Leetcode-Solved/tree/master/3226-minimum-number-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
