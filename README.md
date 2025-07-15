@@ -59,6 +59,7 @@
 | [0724-find-pivot-index](https://github.com/Girish1845/Leetcode-Solved/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Girish1845/Leetcode-Solved/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0952-word-subsets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0952-word-subsets) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Girish1845/Leetcode-Solved/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Girish1845/Leetcode-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -83,6 +84,7 @@
 | [0782-jewels-and-stones](https://github.com/Girish1845/Leetcode-Solved/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0807-custom-sort-string) |
 | [0952-word-subsets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0952-word-subsets) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Girish1845/Leetcode-Solved/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Matrix
@@ -176,6 +178,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Girish1845/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0768-partition-labels](https://github.com/Girish1845/Leetcode-Solved/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Girish1845/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Girish1845/Leetcode-Solved/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2032-largest-odd-number-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
