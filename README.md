@@ -212,6 +212,7 @@
 | [0768-partition-labels](https://github.com/Girish1845/Leetcode-Solved/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Girish1845/Leetcode-Solved/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0807-custom-sort-string) |
+| [0812-rotate-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Girish1845/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/2032-largest-odd-number-in-string) |
@@ -318,4 +319,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Girish1845/Leetcode-Solved/tree/master/0002-add-two-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
