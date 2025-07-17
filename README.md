@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Girish1845/Leetcode-Solved/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Girish1845/Leetcode-Solved/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Girish1845/Leetcode-Solved/tree/master/0043-multiply-strings) |
@@ -235,6 +236,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Girish1845/Leetcode-Solved/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
@@ -312,4 +314,8 @@
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Girish1845/Leetcode-Solved/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Girish1845/Leetcode-Solved/tree/master/0784-insert-into-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Girish1845/Leetcode-Solved/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
