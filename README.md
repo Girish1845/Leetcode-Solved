@@ -10,6 +10,7 @@
 | [0043-multiply-strings](https://github.com/Girish1845/Leetcode-Solved/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Girish1845/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Girish1845/Leetcode-Solved/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Girish1845/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/Girish1845/Leetcode-Solved/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/1013-fibonacci-number) |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Girish1845/Leetcode-Solved/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Girish1845/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Girish1845/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/Girish1845/Leetcode-Solved/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Girish1845/Leetcode-Solved/tree/master/0392-is-subsequence) |
@@ -246,6 +248,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Girish1845/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
