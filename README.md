@@ -57,6 +57,7 @@
 | [0503-next-greater-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/Girish1845/Leetcode-Solved/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/0643-maximum-average-subarray-i) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Girish1845/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0724-find-pivot-index](https://github.com/Girish1845/Leetcode-Solved/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Girish1845/Leetcode-Solved/tree/master/0747-min-cost-climbing-stairs) |
@@ -193,6 +194,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Girish1845/Leetcode-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Girish1845/Leetcode-Solved/tree/master/0413-arithmetic-slices) |
 | [0567-permutation-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/0643-maximum-average-subarray-i) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Girish1845/Leetcode-Solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Heap (Priority Queue)
 |  |
