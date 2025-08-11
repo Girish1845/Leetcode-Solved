@@ -363,4 +363,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/3790-fruits-into-baskets-ii) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Girish1845/Leetcode-Solved/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
