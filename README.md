@@ -367,4 +367,5 @@
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Girish1845/Leetcode-Solved/tree/master/0196-delete-duplicate-emails) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Girish1845/Leetcode-Solved/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
