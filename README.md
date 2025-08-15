@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/Girish1845/Leetcode-Solved/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Girish1845/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0189-rotate-array) |
+| [0342-power-of-four](https://github.com/Girish1845/Leetcode-Solved/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Girish1845/Leetcode-Solved/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Girish1845/Leetcode-Solved/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -187,6 +188,7 @@
 | [0090-subsets-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Girish1845/Leetcode-Solved/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
@@ -266,6 +268,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Girish1845/Leetcode-Solved/tree/master/0002-add-two-numbers) |
+| [0342-power-of-four](https://github.com/Girish1845/Leetcode-Solved/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
