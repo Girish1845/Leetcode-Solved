@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/Girish1845/Leetcode-Solved/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Girish1845/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/Girish1845/Leetcode-Solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Girish1845/Leetcode-Solved/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Girish1845/Leetcode-Solved/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/1013-fibonacci-number) |
@@ -268,6 +269,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Girish1845/Leetcode-Solved/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/Girish1845/Leetcode-Solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Girish1845/Leetcode-Solved/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
