@@ -89,6 +89,7 @@
 | [0169-majority-element](https://github.com/Girish1845/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Girish1845/Leetcode-Solved/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Girish1845/Leetcode-Solved/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0567-permutation-in-string) |
@@ -238,6 +239,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Girish1845/Leetcode-Solved/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Girish1845/Leetcode-Solved/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Girish1845/Leetcode-Solved/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0567-permutation-in-string) |
