@@ -35,6 +35,7 @@
 | [0035-search-insert-position](https://github.com/Girish1845/Leetcode-Solved/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Girish1845/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Girish1845/Leetcode-Solved/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Girish1845/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Girish1845/Leetcode-Solved/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Girish1845/Leetcode-Solved/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Girish1845/Leetcode-Solved/tree/master/0075-sort-colors) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Girish1845/Leetcode-Solved/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Girish1845/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Girish1845/Leetcode-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2737-row-with-maximum-ones](https://github.com/Girish1845/Leetcode-Solved/tree/master/2737-row-with-maximum-ones) |
 ## Two Pointers
@@ -299,6 +301,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Girish1845/Leetcode-Solved/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Girish1845/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Girish1845/Leetcode-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2857-total-distance-traveled](https://github.com/Girish1845/Leetcode-Solved/tree/master/2857-total-distance-traveled) |
 | [3226-minimum-number-game](https://github.com/Girish1845/Leetcode-Solved/tree/master/3226-minimum-number-game) |
