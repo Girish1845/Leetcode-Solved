@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/Girish1845/Leetcode-Solved/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Girish1845/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Girish1845/Leetcode-Solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Girish1845/Leetcode-Solved/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Girish1845/Leetcode-Solved/tree/master/0368-largest-divisible-subset) |
@@ -50,6 +51,7 @@
 | [0179-largest-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/Girish1845/Leetcode-Solved/tree/master/0368-largest-divisible-subset) |
 | [0413-arithmetic-slices](https://github.com/Girish1845/Leetcode-Solved/tree/master/0413-arithmetic-slices) |
@@ -90,6 +92,7 @@
 | [0169-majority-element](https://github.com/Girish1845/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Girish1845/Leetcode-Solved/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Girish1845/Leetcode-Solved/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/0496-next-greater-element-i) |
@@ -144,6 +147,7 @@
 | [0179-largest-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Girish1845/Leetcode-Solved/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Girish1845/Leetcode-Solved/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Girish1845/Leetcode-Solved/tree/master/0455-assign-cookies) |
@@ -161,6 +165,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Girish1845/Leetcode-Solved/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Girish1845/Leetcode-Solved/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -196,6 +201,7 @@
 | [0078-subsets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Girish1845/Leetcode-Solved/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
