@@ -107,6 +107,7 @@
 | [0952-word-subsets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0952-word-subsets) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Girish1845/Leetcode-Solved/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Girish1845/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Girish1845/Leetcode-Solved/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Matrix
@@ -198,6 +199,7 @@
 | [0229-majority-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/Girish1845/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Girish1845/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -262,6 +264,7 @@
 | [0812-rotate-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Girish1845/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Girish1845/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1954-replace-all-digits-with-characters](https://github.com/Girish1845/Leetcode-Solved/tree/master/1954-replace-all-digits-with-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Girish1845/Leetcode-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/2032-largest-odd-number-in-string) |
