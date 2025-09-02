@@ -70,6 +70,7 @@
 | [0724-find-pivot-index](https://github.com/Girish1845/Leetcode-Solved/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Girish1845/Leetcode-Solved/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Girish1845/Leetcode-Solved/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0926-find-and-replace-pattern](https://github.com/Girish1845/Leetcode-Solved/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0952-word-subsets) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Girish1845/Leetcode-Solved/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -103,6 +104,7 @@
 | [0768-partition-labels](https://github.com/Girish1845/Leetcode-Solved/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Girish1845/Leetcode-Solved/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0807-custom-sort-string) |
+| [0926-find-and-replace-pattern](https://github.com/Girish1845/Leetcode-Solved/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0952-word-subsets) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Girish1845/Leetcode-Solved/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -262,6 +264,7 @@
 | [0782-jewels-and-stones](https://github.com/Girish1845/Leetcode-Solved/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0812-rotate-string) |
+| [0926-find-and-replace-pattern](https://github.com/Girish1845/Leetcode-Solved/tree/master/0926-find-and-replace-pattern) |
 | [0952-word-subsets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Girish1845/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Girish1845/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
