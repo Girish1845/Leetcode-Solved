@@ -22,6 +22,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Girish1845/Leetcode-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2857-total-distance-traveled](https://github.com/Girish1845/Leetcode-Solved/tree/master/2857-total-distance-traveled) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Girish1845/Leetcode-Solved/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
@@ -284,6 +285,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/2032-largest-odd-number-in-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Girish1845/Leetcode-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Girish1845/Leetcode-Solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3462-vowels-game-in-a-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -416,4 +418,12 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Girish1845/Leetcode-Solved/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Girish1845/Leetcode-Solved/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Girish1845/Leetcode-Solved/tree/master/1908-recyclable-and-low-fat-products) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
