@@ -170,6 +170,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Girish1845/Leetcode-Solved/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2845-find-the-value-of-the-partition](https://github.com/Girish1845/Leetcode-Solved/tree/master/2845-find-the-value-of-the-partition) |
+| [2887-sort-vowels-in-a-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/2887-sort-vowels-in-a-string) |
 | [3226-minimum-number-game](https://github.com/Girish1845/Leetcode-Solved/tree/master/3226-minimum-number-game) |
 ## Binary Search
 |  |
@@ -285,6 +286,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/2032-largest-odd-number-in-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Girish1845/Leetcode-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Girish1845/Leetcode-Solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2887-sort-vowels-in-a-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 |  |
