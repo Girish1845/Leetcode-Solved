@@ -59,6 +59,7 @@
 | [0268-missing-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/Girish1845/Leetcode-Solved/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Girish1845/Leetcode-Solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/Girish1845/Leetcode-Solved/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/0416-partition-equal-subset-sum) |
@@ -125,6 +126,7 @@
 | [0054-spiral-matrix](https://github.com/Girish1845/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Girish1845/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Girish1845/Leetcode-Solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/1677-matrix-diagonal-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Girish1845/Leetcode-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2737-row-with-maximum-ones](https://github.com/Girish1845/Leetcode-Solved/tree/master/2737-row-with-maximum-ones) |
@@ -165,6 +167,7 @@
 | [0242-valid-anagram](https://github.com/Girish1845/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Girish1845/Leetcode-Solved/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Girish1845/Leetcode-Solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Girish1845/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Girish1845/Leetcode-Solved/tree/master/0621-task-scheduler) |
@@ -187,6 +190,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Girish1845/Leetcode-Solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Girish1845/Leetcode-Solved/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3790-fruits-into-baskets-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/3790-fruits-into-baskets-ii) |
@@ -255,6 +259,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Girish1845/Leetcode-Solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Girish1845/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Girish1845/Leetcode-Solved/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
