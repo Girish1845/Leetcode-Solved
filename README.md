@@ -90,6 +90,7 @@
 | [2845-find-the-value-of-the-partition](https://github.com/Girish1845/Leetcode-Solved/tree/master/2845-find-the-value-of-the-partition) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Girish1845/Leetcode-Solved/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/Girish1845/Leetcode-Solved/tree/master/3226-minimum-number-game) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Girish1845/Leetcode-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Girish1845/Leetcode-Solved/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3790-fruits-into-baskets-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -118,6 +119,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Girish1845/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Girish1845/Leetcode-Solved/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Girish1845/Leetcode-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Girish1845/Leetcode-Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
@@ -222,6 +224,7 @@
 | [0621-task-scheduler](https://github.com/Girish1845/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Girish1845/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Girish1845/Leetcode-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Girish1845/Leetcode-Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
