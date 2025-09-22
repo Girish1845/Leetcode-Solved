@@ -58,6 +58,7 @@
 | [0229-majority-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Girish1845/Leetcode-Solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/Girish1845/Leetcode-Solved/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Girish1845/Leetcode-Solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -146,6 +147,7 @@
 | [0125-valid-palindrome](https://github.com/Girish1845/Leetcode-Solved/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Girish1845/Leetcode-Solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Girish1845/Leetcode-Solved/tree/master/0392-is-subsequence) |
