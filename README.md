@@ -20,6 +20,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Girish1845/Leetcode-Solved/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/2032-largest-odd-number-in-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Girish1845/Leetcode-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Girish1845/Leetcode-Solved/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2857-total-distance-traveled](https://github.com/Girish1845/Leetcode-Solved/tree/master/2857-total-distance-traveled) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Girish1845/Leetcode-Solved/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/3462-vowels-game-in-a-string) |
@@ -86,6 +87,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Girish1845/Leetcode-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Girish1845/Leetcode-Solved/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2737-row-with-maximum-ones](https://github.com/Girish1845/Leetcode-Solved/tree/master/2737-row-with-maximum-ones) |
 | [2845-find-the-value-of-the-partition](https://github.com/Girish1845/Leetcode-Solved/tree/master/2845-find-the-value-of-the-partition) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Girish1845/Leetcode-Solved/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -447,4 +449,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Girish1845/Leetcode-Solved/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 <!---LeetCode Topics End-->
