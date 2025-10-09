@@ -39,6 +39,7 @@
 | [0048-rotate-image](https://github.com/Girish1845/Leetcode-Solved/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Girish1845/Leetcode-Solved/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Girish1845/Leetcode-Solved/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Girish1845/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Girish1845/Leetcode-Solved/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Girish1845/Leetcode-Solved/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Girish1845/Leetcode-Solved/tree/master/0074-search-a-2d-matrix) |
@@ -213,6 +214,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Girish1845/Leetcode-Solved/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Girish1845/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Girish1845/Leetcode-Solved/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Girish1845/Leetcode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/Girish1845/Leetcode-Solved/tree/master/0368-largest-divisible-subset) |
@@ -244,6 +246,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Girish1845/Leetcode-Solved/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Girish1845/Leetcode-Solved/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Girish1845/Leetcode-Solved/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Girish1845/Leetcode-Solved/tree/master/0621-task-scheduler) |
