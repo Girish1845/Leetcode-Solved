@@ -20,6 +20,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Girish1845/Leetcode-Solved/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/2032-largest-odd-number-in-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Girish1845/Leetcode-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Girish1845/Leetcode-Solved/tree/master/2288-count-operations-to-obtain-zero) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Girish1845/Leetcode-Solved/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2857-total-distance-traveled](https://github.com/Girish1845/Leetcode-Solved/tree/master/2857-total-distance-traveled) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Girish1845/Leetcode-Solved/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -362,6 +363,7 @@
 | [0043-multiply-strings](https://github.com/Girish1845/Leetcode-Solved/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Girish1845/Leetcode-Solved/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Girish1845/Leetcode-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Girish1845/Leetcode-Solved/tree/master/2288-count-operations-to-obtain-zero) |
 | [2857-total-distance-traveled](https://github.com/Girish1845/Leetcode-Solved/tree/master/2857-total-distance-traveled) |
 | [3226-minimum-number-game](https://github.com/Girish1845/Leetcode-Solved/tree/master/3226-minimum-number-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
