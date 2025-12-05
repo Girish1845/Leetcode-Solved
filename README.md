@@ -24,6 +24,7 @@
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Girish1845/Leetcode-Solved/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2857-total-distance-traveled](https://github.com/Girish1845/Leetcode-Solved/tree/master/2857-total-distance-traveled) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Girish1845/Leetcode-Solved/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Girish1845/Leetcode-Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Girish1845/Leetcode-Solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Girish1845/Leetcode-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -100,6 +101,7 @@
 | [3226-minimum-number-game](https://github.com/Girish1845/Leetcode-Solved/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Girish1845/Leetcode-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Girish1845/Leetcode-Solved/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Girish1845/Leetcode-Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Girish1845/Leetcode-Solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Girish1845/Leetcode-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3790-fruits-into-baskets-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/3790-fruits-into-baskets-ii) |
@@ -336,6 +338,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/Girish1845/Leetcode-Solved/tree/master/0724-find-pivot-index) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Girish1845/Leetcode-Solved/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Girish1845/Leetcode-Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Recursion
 |  |
 | ------- |
