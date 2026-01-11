@@ -134,6 +134,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/Girish1845/Leetcode-Solved/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Girish1845/Leetcode-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Girish1845/Leetcode-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Girish1845/Leetcode-Solved/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Girish1845/Leetcode-Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
@@ -320,6 +321,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Girish1845/Leetcode-Solved/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2887-sort-vowels-in-a-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/3462-vowels-game-in-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Girish1845/Leetcode-Solved/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Girish1845/Leetcode-Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
