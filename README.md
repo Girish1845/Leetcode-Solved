@@ -127,6 +127,7 @@
 | [0926-find-and-replace-pattern](https://github.com/Girish1845/Leetcode-Solved/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0952-word-subsets) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Girish1845/Leetcode-Solved/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Girish1845/Leetcode-Solved/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Girish1845/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -239,6 +240,7 @@
 | [0169-majority-element](https://github.com/Girish1845/Leetcode-Solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/Girish1845/Leetcode-Solved/tree/master/0621-task-scheduler) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Girish1845/Leetcode-Solved/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Girish1845/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Girish1845/Leetcode-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -313,6 +315,7 @@
 | [0926-find-and-replace-pattern](https://github.com/Girish1845/Leetcode-Solved/tree/master/0926-find-and-replace-pattern) |
 | [0952-word-subsets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Girish1845/Leetcode-Solved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Girish1845/Leetcode-Solved/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Girish1845/Leetcode-Solved/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1954-replace-all-digits-with-characters](https://github.com/Girish1845/Leetcode-Solved/tree/master/1954-replace-all-digits-with-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Girish1845/Leetcode-Solved/tree/master/2021-remove-all-occurrences-of-a-substring) |
