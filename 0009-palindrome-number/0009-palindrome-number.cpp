@@ -1,20 +1,17 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-         long revNum=0;
-         int dup=x;
-        while(x>0)
-        
-        {
+        string s=to_string(x);
+        int n=s.length();
+        int l=0,r=n-1;
+        while(l<r){
+            if(s[l]!=s[r]){
+                return false;
+            }
+            l++;
+            r--;
             
-            int ld=x%10;
-            revNum=(revNum*10)+ld;
-
-            x=x/10;
-
         }
-        return(revNum==dup);
-         
-        
+        return true;
     }
 };
