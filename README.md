@@ -87,6 +87,7 @@
 | [0926-find-and-replace-pattern](https://github.com/Girish1845/Leetcode-Solved/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Girish1845/Leetcode-Solved/tree/master/0952-word-subsets) |
+| [1200-minimum-absolute-difference](https://github.com/Girish1845/Leetcode-Solved/tree/master/1200-minimum-absolute-difference) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Girish1845/Leetcode-Solved/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/1677-matrix-diagonal-sum) |
@@ -193,6 +194,7 @@
 | [0621-task-scheduler](https://github.com/Girish1845/Leetcode-Solved/tree/master/0621-task-scheduler) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Girish1845/Leetcode-Solved/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0807-custom-sort-string](https://github.com/Girish1845/Leetcode-Solved/tree/master/0807-custom-sort-string) |
+| [1200-minimum-absolute-difference](https://github.com/Girish1845/Leetcode-Solved/tree/master/1200-minimum-absolute-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Girish1845/Leetcode-Solved/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Girish1845/Leetcode-Solved/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Girish1845/Leetcode-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
