@@ -30,6 +30,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Girish1845/Leetcode-Solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Girish1845/Leetcode-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Girish1845/Leetcode-Solved/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Array
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Girish1845/Leetcode-Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Girish1845/Leetcode-Solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Girish1845/Leetcode-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Girish1845/Leetcode-Solved/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Girish1845/Leetcode-Solved/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -138,6 +140,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Girish1845/Leetcode-Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Girish1845/Leetcode-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Girish1845/Leetcode-Solved/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Girish1845/Leetcode-Solved/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Girish1845/Leetcode-Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
