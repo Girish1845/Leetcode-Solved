@@ -31,6 +31,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Girish1845/Leetcode-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Girish1845/Leetcode-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Girish1845/Leetcode-Solved/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Girish1845/Leetcode-Solved/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
 | ------- |
