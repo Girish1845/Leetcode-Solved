@@ -10,7 +10,9 @@ public:
         return ans;
     }
     int mirrorDistance(int n) {
-        int ans1=abs(n-rev(n));
-        return ans1;
+        string s=to_string(n);
+        reverse(s.begin(),s.end());
+        int ans1=stoi(s);
+        return abs(n-ans1);
     }
 };
