@@ -101,6 +101,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Girish1845/Leetcode-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Girish1845/Leetcode-Solved/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Girish1845/Leetcode-Solved/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [2574-left-and-right-sum-differences](https://github.com/Girish1845/Leetcode-Solved/tree/master/2574-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/Girish1845/Leetcode-Solved/tree/master/2737-row-with-maximum-ones) |
 | [2845-find-the-value-of-the-partition](https://github.com/Girish1845/Leetcode-Solved/tree/master/2845-find-the-value-of-the-partition) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Girish1845/Leetcode-Solved/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -355,6 +356,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/Girish1845/Leetcode-Solved/tree/master/0724-find-pivot-index) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Girish1845/Leetcode-Solved/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2574-left-and-right-sum-differences](https://github.com/Girish1845/Leetcode-Solved/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Girish1845/Leetcode-Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Recursion
 |  |
